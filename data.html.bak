@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>data</title>
+  </head>
+  <body>
+    <h1>Japan</h1>
+    <p>Home &nbsp;&nbsp; Geschiedenis &nbsp;&nbsp; Data</p>
+    <p><br>
+    </p>
+    <h2>Data</h2>
+    <ul>
+      <li>Bevolking: Volgens schattingen van de Verenigde Naties had Japan in
+        juli 2021 een bevolking van ongeveer 126,3 miljoen mensen.</li>
+    </ul>
+    <img src="pictures/data.jpg" alt="Population" title="Population"style="width: 400px; height: 406px;">
+    <ul>
+      <br>
+      <li>Oppervlakte: Japan heeft een totale oppervlakte van ongeveer 377.975
+        vierkante kilometer, waardoor het de 62e grootste natie ter wereld is.</li>
+      <br>
+      <li>Bevolkingsdichtheid: Vanwege de relatief kleine landmassa en grote
+        bevolking heeft Japan een hoge bevolkingsdichtheid. De gemiddelde
+        bevolkingsdichtheid wordt geschat op ongeveer 334 inwoners per vierkante
+        kilometer.</li>
+      <br>
+      <li>Grootste steden: Enkele van de grootste steden in Japan zijn Tokio (de
+        hoofdstad) met een bevolking van meer dan 14 miljoen mensen, Yokohama,
+        Osaka, Nagoya en Sapporo.</li>
+      <br>
+      <li>Vergrijzing: Japan staat bekend om zijn vergrijzende bevolking.
+        Volgens gegevens van het Japanse ministerie van Binnenlandse Zaken en
+        Communicatie was ongeveer 28,7% van de bevolking in september 2021 65
+        jaar of ouder.</li>
+      <br>
+      <li>Levensverwachting: Japan heeft een hoge levensverwachting. Volgens
+        gegevens van de Wereldgezondheidsorganisatie (WHO) bedroeg de gemiddelde
+        levensverwachting bij de geboorte in Japan in 2020 ongeveer 84,6 jaar.</li>
+      <br>
+      <li>Officiële taal: De officiële taal van Japan is Japans. Het Japans
+        heeft zijn eigen unieke schriftsysteem dat bestaat uit kanji (Chinese
+        karakters), hiragana en katakana (fonetische scripts).</li>
+      <br>
+      <li>Religie: Het shintoïsme en het boeddhisme zijn de twee belangrijkste
+        religies in Japan. Veel Japanners praktiseren een combinatie van beide
+        religies.</li>
+    </ul>
+    <p></p>
+  </body>
+</html>

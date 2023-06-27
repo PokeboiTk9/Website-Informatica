@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Test Website</title>
+  </head>
+  <body>
+    <p></p>
+    <h1>Japan</h1>
+    <p>Home &nbsp;&nbsp; Geschiedenis &nbsp;&nbsp; Data</p>
+    <p><br>
+    </p>
+    <h2>Algemeen</h2>
+    In het land van de rijzende zon, Japan, ontvouwt zich een betoverende wereld
+    van traditie, technologie en schoonheid. Het is een land dat bekend staat om
+    zijn rijke geschiedenis, unieke cultuur en adembenemende landschappen. Laten
+    we ons meenemen op een reis door de tijd en ruimte, terwijl we enkele
+    hoogtepunten van dit fascinerende land verkennen.<br>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <h2>Cultuur</h2>
+    <p>De Japanse cultuur weerspiegelt een harmonieuze combinatie van oude
+      tradities en moderne vooruitgang. Eeuwenoude kunstvormen zoals de
+      theeceremonie, kalligrafie en traditioneel theater worden nog steeds
+      gekoesterd en beoefend. Het land staat bekend om zijn prachtige ambachten,
+      zoals keramiek, lakwerk en kimono-weven. Het behoud van deze traditionele
+      ambachten wordt hoog gewaardeerd en doorgegeven van generatie op
+      generatie.<br>
+      Een van de meest iconische symbolen van Japan is de sakura, of
+      kersenbloesem. Elk voorjaar komen de straten en parken tot leven met de
+      betoverende schoonheid van de roze bloesems. Dit fenomeen wordt gevierd
+      met hanami, het traditionele gebruik van picknicken onder de bloeiende
+      kersenbomen. Het is een tijd van vreugde, reflectie en het waarderen van
+      de vergankelijkheid van het leven.</p>
+    <p><br>
+      Naast zijn culturele schatten heeft Japan ook een reputatie opgebouwd als
+      een technologisch meesterwerk. Het land is de thuisbasis van enkele van 's
+      werelds grootste technologiebedrijven en innovators. Van high-speed
+      treinen tot geavanceerde robots en elektronische gadgets, Japan blijft
+      grenzen verleggen en nieuwe technologische ontdekkingen doen.</p>
+    <p><br>
+    </p>
+    <img src="pictures/sakura2.jpg" alt="Sakura" title="Sakura" style="width: 500x; height: 300px;">
+  </body>
+</html>
